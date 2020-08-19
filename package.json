@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "Tableau 2020 Hackathon project",
   "scripts": {
-    "build": "npm run lint",
-    "start": "node node_modules/http-server/bin/http-server -p 8765",
-    "lint": "npm run jslint"
+    "start": "node node_modules/http-server/bin/http-server -p 8765"
   },
   "author": "Andrew Hodge",
   "license": "MIT",
