@@ -3,7 +3,7 @@
 
 ![A proof of concept that Tableau can run Doom](http://g.recordit.co/SHAKCkSQQJ.gif)
 
-
+> A proof of concept that Tableau can run Doom
 
 ## Instructions to get going
 
