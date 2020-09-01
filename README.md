@@ -13,3 +13,6 @@ Generate files `npm run build`
 
 Run app with `npm run start`
 
+Use the `Extension` Object in Tableau to add `repo\src\projectD.trex`
+
+Frag!
